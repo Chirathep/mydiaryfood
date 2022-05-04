@@ -1,0 +1,10 @@
+{
+    "fname" : "Saurabh",
+    "lname" : "Singh",
+    "age" : 24,
+    "address" : {
+        "city" : "Delhi",
+        "state" : "Delhi",
+        "country" : "India"
+    }
+}
